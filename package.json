@@ -7,7 +7,7 @@
     "stylelint-scss": "^3.21.0"
   },
   "name": "hello_microverse",
-  "description": "",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
